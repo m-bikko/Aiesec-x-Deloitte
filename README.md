@@ -62,4 +62,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 Beimbet
-GitHub: [yourusername](https://github.com/m-bikko)
+GitHub: [m-bikko](https://github.com/m-bikko)
